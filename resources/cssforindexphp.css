@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+  text-align: center;
+}
+.btn{
+  width: 150px;
+  border-radius: 5px;
+  background: #89B2FF;
+  color: white;
+  font-weight: 600;
+  height: 25px;
+  border: 1px solid transparent;
+
+}
+.buttons{
+  background:#CBCAA8;
+  text-align: center;
+  padding: 2px;
+}
+input[type=submit]{
+	width: 200px;
+   margin-top: 10px;
+   border-radius: 5px;
+    font-weight: 600;
+    height: 35px;
+    color: #535153;
+    font-size: 25px;
+
+}
+input[type=text],input[type=password]{
+   border-radius: 3px;
+   box-shadow: 1px 1px black;
+   width:250px; 
+   height: 35px;
+   font-size: 20px;
+   padding-left: 5px;
+
+}
+p{
+  font-size: 25px;
+}
+.signin{
+	  width: 260px;
+    text-align: center;
+    padding: 15px;
+    background: #89B2FF;
+    height: 250px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.registration{
+  	max-width: 260px;
+    text-align: center;
+    padding: 15px;
+    display: none;
+    background: #89B2FF;
+    height: 250px;
+}
+.btn:hover{
+  background: black;
+}
+.con{
+  text-align: center;
+  margin-top: 150px;
+}
+#submit{
+  margin-top: 80px;
+}

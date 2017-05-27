@@ -1,0 +1,28 @@
+.lastalbom{
+    font-size: 55px;
+    font-family: calibril;
+    color: white;
+    text-align: center;
+    background: #89B2FF;
+}
+img{
+	max-width:300px;
+	height: 200px;
+	margin:10px;
+	border-radius:10%;
+}
+p{  
+	font-size: 25px;
+	text-align: center;
+	color: black;
+}
+.page>a>p{ 
+ display: inline-block;
+ width: 50px;
+ height: 50px;
+ border:2px solid white;
+ border-radius: 50%;
+ text-align: center;
+ padding-top: 5px;
+
+ }

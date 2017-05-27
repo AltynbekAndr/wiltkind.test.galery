@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+h1{
+	text-transform: uppercase;	
+	display: inline-block;
+	margin:0;
+}
+h3{
+text-transform: uppercase;	
+display: inline-block;
+margin:0;
+}
+b{
+	font-size: 25px;
+}
+.h{
+	color: #562B0A;    
+}
+p{
+	color: #562B0A;    
+
+}
+img{
+	width: 200px;
+	margin :15px;
+	box-shadow: 2px 3px black;
+}
+.zoomimgcontainer{
+	text-align: center;
+}
